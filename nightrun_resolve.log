@@ -1,0 +1,27 @@
+20:12:19 UnityEntry strings=2
+20:12:23 private refs=2
+20:12:23 candidates=4
+20:12:27   cand 0x21B021F46D8 off=0x8 refs=0
+20:12:27   cand 0x21B021F46D0 off=0x10 refs=44
+20:12:27   cand 0x21B021F46C8 off=0x18 refs=0
+20:12:27   cand 0x21B021F46C0 off=0x20 refs=0
+20:12:27 chosen=0x21B021F46D0 refs=44
+20:12:27 Game=0x21C1C20EA50
+16:01:02 UnityEntry strings=2
+16:01:07 private refs=2
+16:01:07 candidates=4
+16:01:11   cand 0x21F421F46D8 off=0x8 refs=0
+16:01:11   cand 0x21F421F46D0 off=0x10 refs=44
+16:01:11   cand 0x21F421F46C8 off=0x18 refs=0
+16:01:11   cand 0x21F421F46C0 off=0x20 refs=0
+16:01:11 chosen=0x21F421F46D0 refs=44
+16:01:11 Game=0x2201921AA50
+16:01:32 UnityEntry strings=2
+16:01:37 private refs=2
+16:01:37 candidates=4
+16:01:41   cand 0x21F421F46D8 off=0x8 refs=0
+16:01:41   cand 0x21F421F46D0 off=0x10 refs=44
+16:01:41   cand 0x21F421F46C8 off=0x18 refs=0
+16:01:41   cand 0x21F421F46C0 off=0x20 refs=0
+16:01:41 chosen=0x21F421F46D0 refs=44
+16:01:41 Game=0x2201921AA50
